@@ -225,7 +225,7 @@ class: text-center
 
 ## Timing of Moves and Actions
 
-![Timing of Moves and Actions](/public/timing.png)
+![Timing of Moves and Actions](/timing.png)
 
 ### Notations
 
@@ -307,7 +307,7 @@ $vA_2$ is long-term value
 
 reminder of our timing:
 
-![Untitled](timing.png)
+![Untitled](/timing.png)
 
 ---
 layout: center
@@ -451,7 +451,7 @@ $$
 1. $x_{H}(\rho)=1$  for $\rho<\bar{\rho}$  and  $x_{H}(\rho)=0$  for  $\rho>\bar{\rho}$
 2. $x_{L}(\rho)$  is non-decreasing on  $[0, \tilde{\rho}]$ ，equal to 1 on $[\tilde{\rho}, \bar{\rho})$ when  $\tilde{\rho}<\bar{\rho}$  and equal to 0 on  $[\bar{\rho}, 1]$ 
 
-![Equilibrium as a Function of ρ](equilibria.png)
+![Equilibrium as a Function of ρ](/equilibria.png)
 
 ---
 
@@ -461,7 +461,7 @@ $\rho$  = initial self-image inference
 
 When initial self-image is good enough, the H type **can afford not to invest,** since the other one also behaves opportunistically the posterior will equal the prior, which is already close to 1 and thus could not be increased much anyway
 
-![Equilibrium as a Function of ρ](equilibria.png)
+![Equilibrium as a Function of ρ](/equilibria.png)
 
 ---
 layout: figure-side
@@ -718,7 +718,7 @@ $$
 
 ### New Timing
 
-![Untitled](try.png)
+![Untitled](/try.png)
 
 **Date 1**:  (no-recall assumptions) each agent always remains aware of his own behavior $a_i^0$, but he recalls that of his partner **only if they are still together**. If a split occurred, he recalls neither $a^j_0$ nor what caused the separation (extreme and meant only to simplify the derivations)
 
